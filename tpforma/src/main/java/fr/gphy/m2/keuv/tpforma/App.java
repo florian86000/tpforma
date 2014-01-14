@@ -10,7 +10,7 @@ public class App {
 
     public static void main(String[] args) throws IOException {
         System.out.println("Hello World! Florian est un tard looool");
-        PDBUrlBuilder.getFirstPdbUrl("P07900");
+        System.out.println(PDBUrlBuilder.getFirstPdbUrl("P07900"));
         
         
     }
