@@ -1,11 +1,6 @@
-target/
+*.class
 
-# NetBeans #
-nbactions.xml
-
-# Java #
-## A DECOMMENTER
-#*.jar
-#*.war
-#*.ear
-#*.class
+# Package Files #
+*.jar
+*.war
+*.ear
