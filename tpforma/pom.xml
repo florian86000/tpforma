@@ -62,6 +62,7 @@
             <type>jar</type>
         </dependency>
     </dependencies>
+    
     <repositories>
         <repository>
             <id>biojava-maven-repo</id>
