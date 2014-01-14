@@ -7,8 +7,8 @@ package fr.gphy.m2.keuv.tpforma;
 public class App {
 
     public static void main(String[] args) {
-        System.out.println("Hello World! Florian est un tard lol");
+        System.out.println("Hello World! Florian est un tard looool");
         //TOATST
-        //FILS de méchant
+        //FILS de méchant dero
     }
 }
