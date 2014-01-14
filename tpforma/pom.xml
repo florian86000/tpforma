@@ -48,9 +48,20 @@
             <artifactId>junit</artifactId>
             <version>3.8.1</version>
             <scope>test</scope>
+        </dependency>  
+        <dependency>
+            <groupId>org.biojava</groupId>
+            <artifactId>biojava3structuregui</artifactId>
+            <version>3.0</version>
+            <type>jar</type>
+        </dependency>
+        <dependency>
+            <groupId>org.biojava</groupId>
+            <artifactId>biojava3structure</artifactId>
+            <version>3.0</version>
+            <type>jar</type>
         </dependency>
     </dependencies>
-    
     <repositories>
         <repository>
             <id>biojava-maven-repo</id>
