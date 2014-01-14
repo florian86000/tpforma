@@ -53,14 +53,14 @@
         
         <dependency>
             <groupId>org.biojava</groupId>
-            <artifactId>biojava3structuregui</artifactId>
+            <artifactId>biojava3-structure-gui</artifactId>
             <version>3.0</version>
             <type>jar</type>
         </dependency>
         
         <dependency>
             <groupId>org.biojava</groupId>
-            <artifactId>biojava3structure</artifactId>
+            <artifactId>biojava3-structure</artifactId>
             <version>3.0</version>
             <type>jar</type>
         </dependency>
